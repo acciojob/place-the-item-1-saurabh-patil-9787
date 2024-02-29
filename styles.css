@@ -32,11 +32,13 @@
     order:1;}
 
 
-}
+
 
 .holder{
 	width:100vw;
 	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
 	
 }
 .item1{
@@ -45,28 +47,28 @@
 	background-color:green;
 	border:3px solid black;
 }
-}
+
 .item2{
 	width:50px;
 	height:50px;
 	background-color:green;
 	border:3px solid black;
 }
-}
+
 .item3{
 	width:50px;
 	height:50px;
 	background-color:green;
 	border:3px solid black;
 }
-}
+
 .item4{
 	width:50px;
 	height:50px;
 	background-color:green;
 	border:3px solid black;
 }
-}
+
 .item5{
 	width:50px;
 	height:50px;
