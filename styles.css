@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+}
+.container{
+	width:100vw;
+
+	border:5px solid black;
+	display:flex;
+	justify-content:space-between;
+	order:3;
+}
+.box1{
+	width:20px;
+	height:20px;
+	background-color:red;
+    order:2;
+}
+
+.box2{
+	width:20px;
+	height:20px;
+	background-color:blue;
+    order:3;
+}
+.box3{
+	width:20px;
+	height:20px;
+	background-color:green;
+    order:1;
+}
