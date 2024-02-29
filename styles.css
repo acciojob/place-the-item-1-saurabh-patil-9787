@@ -10,7 +10,7 @@
 	border:5px solid black;
 	display:flex;
 	justify-content:space-between;
-	order:3;
+	
 }
 .box1{
 	width:20px;
@@ -29,5 +29,47 @@
 	width:20px;
 	height:20px;
 	background-color:green;
-    order:1;
+    order:1;}
+
+
+}
+
+.holder{
+	width:100vw;
+	display:flex;
+	
+}
+.item1{
+	width:50px;
+	height:50px;
+	background-color:green;
+	border:3px solid black;
+}
+}
+.item2{
+	width:50px;
+	height:50px;
+	background-color:green;
+	border:3px solid black;
+}
+}
+.item3{
+	width:50px;
+	height:50px;
+	background-color:green;
+	border:3px solid black;
+}
+}
+.item4{
+	width:50px;
+	height:50px;
+	background-color:green;
+	border:3px solid black;
+}
+}
+.item5{
+	width:50px;
+	height:50px;
+	background-color:red;
+	border:3px solid black;
 }
